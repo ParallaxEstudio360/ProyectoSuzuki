@@ -7,6 +7,12 @@
 ### Título
 tour.name = Suzuki Palmas
 
+## Skin
+
+### Tooltip
+IconButton_10C4FC45_2956_A324_41BC_3905F46F0DD7.toolTip = Modo VR
+IconButton_3ACBFCFC_292C_5859_41BB_B12A81CDDC88.toolTip = Reproducir/Pausar
+
 ## Media
 
 ### Subtítulo
@@ -73,6 +79,7 @@ HotspotPanoramaOverlayArea_17B700C2_1A2A_0479_41B9_75A6EAE09D88.toolTip = Entra
 HotspotPanoramaOverlayArea_17BB3DF9_1A2A_7C0B_41AE_8DFA8E8A4EA0.toolTip = Swift Sport 2021
 HotspotPanoramaOverlayArea_17EDCE42_1A2A_3C79_41B4_A619FBC5E24B.toolTip = Abrir cofre
 HotspotPanoramaOverlayArea_3AC50911_2739_A53D_4183_D9D067940960.toolTip = Detalle
+HotspotPanoramaOverlayArea_3EF850B1_2D85_0E4D_419B_0EBE82CBDB4F.toolTip = Dale play
 
 ## Acción
 
