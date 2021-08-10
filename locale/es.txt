@@ -36,7 +36,7 @@ album_3E880D4D_2757_BD25_4185_FBD7EFD1384F_1.label = 04_Motor
 album_3E880D4D_2757_BD25_4185_FBD7EFD1384F_2.label = 05_Motor
 album_3E880D4D_2757_BD25_4185_FBD7EFD1384F_3.label = 06_Motor
 album_3E880D4D_2757_BD25_4185_FBD7EFD1384F_4.label = 07_Motor
-media_3D277FFD_320D_CD85_41A8_BCAC1B7388B8.label = test
+media_39C9845E_3251_E83A_41C1_0FB89DA7BE71.label = test
 panorama_10CD4729_1A13_49B5_41AA_57965FAE9910.label = Swift Sport cofre abierto
 panorama_10CEB5ED_1A13_C88D_41B4_F1800C260192.label = Swift Sport cajuela cerrada
 panorama_10E67392_1A10_C896_417E_60C80EF386E0.label = Swift Sport 2021
@@ -76,9 +76,9 @@ HotspotPanoramaOverlayArea_16007F9E_26EA_9D24_41B3_F6115536EBE8.toolTip = Detall
 HotspotPanoramaOverlayArea_165BFE6A_26EA_9FEF_41BA_A7B9E79E85EC.toolTip = Detalle
 HotspotPanoramaOverlayArea_176E8CF7_26D7_BCE4_41A2_D5A118E84441.toolTip = Detalle
 HotspotPanoramaOverlayArea_17B700C2_1A2A_0479_41B9_75A6EAE09D88.toolTip = Entra
-HotspotPanoramaOverlayArea_17BB3DF9_1A2A_7C0B_41AE_8DFA8E8A4EA0.toolTip = Swift Sport 2021
 HotspotPanoramaOverlayArea_17EDCE42_1A2A_3C79_41B4_A619FBC5E24B.toolTip = Abrir cofre
 HotspotPanoramaOverlayArea_3AC50911_2739_A53D_4183_D9D067940960.toolTip = Detalle
+HotspotPanoramaOverlayArea_3C188B7A_3251_1805_418F_4508CDA99DC6.toolTip = Swift Sport 2021
 HotspotPanoramaOverlayArea_3EF850B1_2D85_0E4D_419B_0EBE82CBDB4F.toolTip = Dale play
 
 ## Acción
