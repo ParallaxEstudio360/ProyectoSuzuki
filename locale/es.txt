@@ -85,3 +85,4 @@ HotspotPanoramaOverlayArea_3EF850B1_2D85_0E4D_419B_0EBE82CBDB4F.toolTip = Dale p
 
 ### URL
 LinkBehaviour_011FA7F6_275B_6CE7_4197_56A0224B1324.source = https://suzukipalmas.com.mx/apartado
+LinkBehaviour_22AA34A2_3233_F3BF_41BC_6D94754CDDD2.source = https://suzukipalmas.com.mx/contacto/agendarcita/swift
