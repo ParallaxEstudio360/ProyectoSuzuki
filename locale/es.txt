@@ -10,7 +10,6 @@ tour.name = Suzuki Palmas
 ## Skin
 
 ### Tooltip
-IconButton_10C4FC45_2956_A324_41BC_3905F46F0DD7.toolTip = Modo VR
 IconButton_3ACBFCFC_292C_5859_41BB_B12A81CDDC88.toolTip = Reproducir/Pausar
 
 ## Media
@@ -89,3 +88,5 @@ HotspotPanoramaOverlayArea_3EF850B1_2D85_0E4D_419B_0EBE82CBDB4F.toolTip = Dale p
 ### URL
 LinkBehaviour_011FA7F6_275B_6CE7_4197_56A0224B1324.source = https://suzukipalmas.com.mx/apartado
 LinkBehaviour_22AA34A2_3233_F3BF_41BC_6D94754CDDD2.source = https://suzukipalmas.com.mx/contacto/agendarcita/swift
+LinkBehaviour_2F4047A8_333B_2212_41C1_2ACA9C202BD1.source = //www.youtube.com/embed/XYmesVK-DZg?v=XYmesVK-DZg
+LinkBehaviour_2F4F27A7_333B_221E_41C5_B88801F1D1CC.source = //www.youtube.com/embed/XYmesVK-DZg?v=XYmesVK-DZg
