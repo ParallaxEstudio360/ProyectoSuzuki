@@ -36,24 +36,28 @@ album_3E880D4D_2757_BD25_4185_FBD7EFD1384F_1.label = 04_Motor
 album_3E880D4D_2757_BD25_4185_FBD7EFD1384F_2.label = 05_Motor
 album_3E880D4D_2757_BD25_4185_FBD7EFD1384F_3.label = 06_Motor
 album_3E880D4D_2757_BD25_4185_FBD7EFD1384F_4.label = 07_Motor
-media_39C9845E_3251_E83A_41C1_0FB89DA7BE71.label = test
+media_203D6A97_33FD_223E_41C3_4AAF673B7CD0.label = test
 panorama_10CD4729_1A13_49B5_41AA_57965FAE9910.label = Swift Sport cofre abierto
 panorama_10CEB5ED_1A13_C88D_41B4_F1800C260192.label = Swift Sport cajuela cerrada
 panorama_10E67392_1A10_C896_417E_60C80EF386E0.label = Swift Sport 2021
 panorama_10E97014_1A10_C793_418F_11C9431071A4.label = Swift Sport puerta abierta
-panorama_10FCA544_1A17_49F3_4170_F2D83206E7A6.label = Swift Sport Despedida
 panorama_10FFAD4E_1A17_398E_4172_BF2142691EF6.label = Swift Sport puerta cerrada
 panorama_112E7D81_1A11_5975_41B6_33D628FE4E62.label = Agencia
 panorama_118D76C5_1A26_0C7B_4192_A8FB20F03025.label = Swift Sport interior frente
+panorama_23D7D3AD_33DB_2213_41A1_1F4A3C8B3D56.label = Swift Sport Despedida
 panorama_2AD808A0_26D6_E31B_41BB_F12D228BA903.label = Swift Sport interior atrás
-panorama_2D2CAE2A_26D7_BF6C_41AF_C59A74B2E1EC.label = Recepción
 panorama_2D399FD7_26D9_BD25_4199_1FC28601D9CF.label = Swift Sport cajuela abierta
+panorama_3C0C4858_335D_2E32_41C8_CC215E7B06DB.label = Recepción
 photo_02649CD0_273A_A33B_41A7_ECE9DD114308.label = 02_Faros
 photo_02649CD0_273A_A33B_41A7_ECE9DD114308.label = 02_Faros
 photo_04449003_273A_E31D_41B4_F7C5F779A7E5.label = 9_Neblina
 photo_04449003_273A_E31D_41B4_F7C5F779A7E5.label = 9_Neblina
 photo_0445568B_273A_AF2D_41B6_AC4C24CC0442.label = 03_Frente
 photo_0445568B_273A_AF2D_41B6_AC4C24CC0442.label = 03_Frente
+video_23702CEC_335D_6612_41B9_841A273EC749.label = entrada (Edición de VR2 1)_4
+video_3C29491E_3376_EE2E_41C1_55B533EBB9A3.label = entrada (Edición de VR2 1)_3
+video_3C47AFCD_33DD_2212_41B3_EC3E7C26799F.label = salida (Edición de VR2 1)
+video_3E95B1DE_333A_DE31_41B8_0A94824A0F54.label = entrada (Edición de VR2 1)_2
 
 ## Hotspot
 
@@ -78,7 +82,6 @@ HotspotPanoramaOverlayArea_176E8CF7_26D7_BCE4_41A2_D5A118E84441.toolTip = Detall
 HotspotPanoramaOverlayArea_17B700C2_1A2A_0479_41B9_75A6EAE09D88.toolTip = Entra
 HotspotPanoramaOverlayArea_17EDCE42_1A2A_3C79_41B4_A619FBC5E24B.toolTip = Abrir cofre
 HotspotPanoramaOverlayArea_3AC50911_2739_A53D_4183_D9D067940960.toolTip = Detalle
-HotspotPanoramaOverlayArea_3C188B7A_3251_1805_418F_4508CDA99DC6.toolTip = Swift Sport 2021
 HotspotPanoramaOverlayArea_3EF850B1_2D85_0E4D_419B_0EBE82CBDB4F.toolTip = Dale play
 
 ## Acción
